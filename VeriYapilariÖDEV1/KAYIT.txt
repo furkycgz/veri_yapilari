@@ -1,0 +1,42 @@
+=====================
+Öğrenci no  : 101
+Ad          : Ahmet
+Soyad       : Yılmaz
+Sınıf       :2
+Ortalama    : 3.5
+=====================
+Öğrenci no  : 102
+Ad          : Ayşe
+Soyad       : Demir
+Sınıf       :1
+Ortalama    : 3.2
+=====================
+Öğrenci no  : 103
+Ad          : Can
+Soyad       : Kara
+Sınıf       :3
+Ortalama    : 2.8
+=====================
+Öğrenci no  : 104
+Ad          : Elif
+Soyad       : Güneş
+Sınıf       :2
+Ortalama    : 3.9
+=====================
+Öğrenci no  : 104
+Ad          : Yavuz
+Soyad       : Güneş
+Sınıf       :2
+Ortalama    : 3.5
+=====================
+Öğrenci no  : 106
+Ad          : Mehmet
+Soyad       : Aksoy
+Sınıf       :2
+Ortalama    : 2.5
+=====================
+Öğrenci no  : 106
+Ad          : Zeynep
+Soyad       : Öztürk
+Sınıf       :3
+Ortalama    : 4.0
